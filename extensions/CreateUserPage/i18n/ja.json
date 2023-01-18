@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Otokoume"
+		]
+	},
+	"createuserpage-desc": "利用者の利用者ページがログイン時に存在しない場合、自動的に作成する"
+}

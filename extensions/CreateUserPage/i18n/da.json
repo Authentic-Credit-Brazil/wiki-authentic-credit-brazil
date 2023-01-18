@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Saederup92"
+		]
+	},
+	"createuserpage-desc": "Opret brugerside for en bruger hvis den ikke eksisterer når brugeren logger på"
+}

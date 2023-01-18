@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"createuserpage-desc": "Crea le pagina personal de un usator si non existe quando le usator aperi session"
+}

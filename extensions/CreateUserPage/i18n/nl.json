@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mainframe98"
+		]
+	},
+	"createuserpage-desc": "Maakt de gebruikerspagina van een gebruiker aan als deze nog niet bestaat wanneer de gebruiker zich aanmeld."
+}

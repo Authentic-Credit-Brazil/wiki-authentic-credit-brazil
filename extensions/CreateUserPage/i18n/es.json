@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fitoschido",
+			"MarcoAurelio"
+		]
+	},
+	"createuserpage-desc": "Crear una página personal para el usuario si no existe cuando este acceda a su cuenta"
+}

@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Felipe L. Ewald"
+		]
+	},
+	"createuserpage-desc": "Cria uma página de usuário para um usuário se ela não existir quando o usuário entrar."
+}
