@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"createuserpage-desc": "사용자가 로그인할 때 사용자 문서가 존재하지 않으면 사용자 문서를 만듭니다."
+}

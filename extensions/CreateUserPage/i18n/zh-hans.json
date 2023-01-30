@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liuxinyu970226"
+		]
+	},
+	"createuserpage-desc": "当用户登录时，如果其用户页不存在的话，就为其创建用户页。"
+}

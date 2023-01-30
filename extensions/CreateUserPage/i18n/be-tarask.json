@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"createuserpage-desc": "Стварае старонку ўдзельніка, калі яна не існуе, пры ўваходзе ў сыстэму."
+}

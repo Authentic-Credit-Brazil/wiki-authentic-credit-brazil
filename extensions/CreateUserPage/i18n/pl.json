@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Пан Хаунд"
+		]
+	},
+	"createuserpage-desc": "Utwórz stronę użytkownika dla użytkownika, jeśli ona nie istnieje, gdy użytkownik się loguje"
+}

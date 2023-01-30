@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"createuserpage-desc": "Opprett brukerside for en bruker om den ikke eksisterer når brukeren logger seg inn"
+}

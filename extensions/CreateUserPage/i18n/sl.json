@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"createuserpage-desc": "Ustvari uporabniško stran za uporabnika, če ta ob prijavi uporabnika še ne obstaja."
+}

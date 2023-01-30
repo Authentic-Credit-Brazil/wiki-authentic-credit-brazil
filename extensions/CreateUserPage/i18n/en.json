@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"cicalese"
+		]
+	},
+	"createuserpage-desc": "Create user page for a user if it does not exist when the user logs in"
+}
